@@ -1,5 +1,4 @@
-<a href="https://resimlink.com/Da3AXn2" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/Da3AXn2.png" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-
+<img src="https://r.resimlink.com/LMCk6-Tu5.png"/>
 <h1 align="center">Hi 👋, I'm Ibrahim Mert</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
