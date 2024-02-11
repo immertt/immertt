@@ -1,4 +1,5 @@
 <img src="https://r.resimlink.com/LMCk6-Tu5.png"/>
+
 <h1 align="center">Hi 👋, I'm Ibrahim Mert</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
