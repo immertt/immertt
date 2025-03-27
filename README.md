@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mert</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **C#**
+- 🔭 I’m currently working on **SQL**
 
 - 🌱 I’m currently learning **C#,Python,SQL**
 
